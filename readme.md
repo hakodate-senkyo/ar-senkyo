@@ -1,2 +1,2 @@
-- [character-picture](https://hakodate-senkyo.github.io/web-ar/public/character-picture/image.html)
+- [character-picture](https://hakodate-senkyo.github.io/ar-senkyo/public/character-picture/image.html)
   - キャラクターと一緒に写真を撮る
