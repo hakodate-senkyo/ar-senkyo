@@ -39,6 +39,8 @@ document.addEventListener('DOMContentLoaded', () => {
     type = 4 
   } else if (location.href.indexOf('chara=5') >= 0) {
     type = 5 
+  } else if (location.href.indexOf('chara=6') >= 0) {
+    type = 6 
   }
 
   function setSize () {
@@ -104,6 +106,8 @@ document.addEventListener('DOMContentLoaded', () => {
     chara.src = './images/a04.png'
   } else if (type == 5) {
     chara.src = './images/a05.png'
+  } else if (type == 6) {
+    chara.src = './images/a06.png'
   } else {
     chara.src = './images/b01.png'
   }
